@@ -1,0 +1,11 @@
+{
+    "qt_version": "6.8.3",
+    "qt_dir": "C:\\Qt\\6.8.3\\msvc2022_64",
+    "cmake_path": "C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe",
+    "ninja_path": "C:\\Qt\\Tools\\Ninja\\ninja.exe",
+    "vcvarsall_path": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Auxiliary\\Build\\vcvarsall.bat",
+    "python_path": "C:\\Users\\Bob\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "workspace_dir": "D:\\Lcode\\qt-autopilot\\workspace",
+    "build_type": "Release",
+    "generator": "Ninja"
+}

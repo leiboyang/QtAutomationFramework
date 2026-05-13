@@ -1,0 +1,10 @@
+# Build output
+build/
+workspace/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
